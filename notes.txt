@@ -1,0 +1,8 @@
+Cara Menggunakan Website ini :
+1.Nyalakan Laragon/xampp dulu
+2.Pindahkan hasil ekstrak ini ke dalam folder htdocs atau www pada laragon
+3.jika menggunakan xampp php, pergi ke folder connection > conn.php, lalu ubah username menjadi kosong
+4.pergi ke phpmyadmin, lalu buat database dengan nama ProjectPHP
+5.Jika sudah dibuat, pergi ke import lalu import file sql databasenya (filenya projectphp.sql)
+6.jika sudah masuk ke direktori nya localhost/ProjectPHP/index.php
+7.Jika tidak ada error maka tandanya berhasil dan bisa digunakan
